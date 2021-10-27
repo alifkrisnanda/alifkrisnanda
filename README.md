@@ -4,11 +4,11 @@
 
 ## I'm a student, majoring in Computer Engineering
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+<!-- - 🔭 I just launched
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: 
+- ⚡ Fun fact: -->
 
 ### Connect with me:
 
