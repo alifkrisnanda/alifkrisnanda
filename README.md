@@ -16,7 +16,6 @@
 [<img align="left" alt="Alif Krisnanda | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="alifkrisnanda_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="alifkrisnanda_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="alifkrisnanda_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-steam.svg" />][instagram]
 
 <br />
 
@@ -44,8 +43,7 @@
 </details>
 
 [website]: http://alifkrisnanda.me
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/alifkrisnanda_
+[youtube]: https://www.youtube.com/channel/UCP2vxqDdpdekoBQoW2jpDOA
+[instagram]: https://instagram.com/alifkrisnanda_
 
