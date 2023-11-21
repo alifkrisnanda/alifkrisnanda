@@ -1,4 +1,4 @@
-### Hi there, I'm Alif - aka [Shinn][website] 👋
+### Hi there, I'm [Alif][website] 👋
 
 
 
@@ -43,7 +43,5 @@
 </details>
 
 [website]: http://alifkrisnanda.me
-[twitter]: https://twitter.com/alifkrisnanda_
-[youtube]: https://www.youtube.com/channel/UCP2vxqDdpdekoBQoW2jpDOA
-[instagram]: https://instagram.com/alifkrisnanda_
+[instagram]: https://instagram.com/alifkrisnandaa
 
