@@ -2,12 +2,12 @@
 
 
 
-## I'm a student, majoring in Computer Engineering
+## I'm a 🧙
 
 <!-- - 🔭 I just launched
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: 
+- 🥅 2024 Goals: 
 - ⚡ Fun fact: -->
 
 ### Connect with me:
